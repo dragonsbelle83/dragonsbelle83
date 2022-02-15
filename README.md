@@ -1,3 +1,5 @@
+# Welcome to the Dragon's Lair!
+
 - 👋 Hi, I’m @dragonsbelle83
 - 👀 I’m interested in video games, coding, learning, and other things that many people find taboo!
 - 🌱 I’m currently learning react, databases, and backend
